@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "704646194836",
+    "project_id": "icoderz-solutions-practical",
+    "storage_bucket": "icoderz-solutions-practical.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704646194836:android:dcfd7217cfc13cdd847681",
+        "android_client_info": {
+          "package_name": "com.practical.icoderz_task_example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "704646194836-a1tj8o10t04pn56esards30328av9s2q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.practical.icoderz_task_example",
+            "certificate_hash": "0c889b600dc37484a3d422dd38d0cc1b762b5596"
+          }
+        },
+        {
+          "client_id": "704646194836-lddnkivf4cicmp9i6l03hn7vqn353h1e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRptDGYfcQXeFa9_gcMyitvsx5tnByQH8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "704646194836-lddnkivf4cicmp9i6l03hn7vqn353h1e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
